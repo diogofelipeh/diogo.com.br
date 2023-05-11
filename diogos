@@ -26,7 +26,7 @@
  border-radius: 50%;
  }
  .corPrimaria {
- background-color: #0011ffe7
+ background-color: #2a4088e7
  }
  .corSecundaria {
  background-color: #282a2c
@@ -99,9 +99,9 @@
  <section class="jumbotron text-center corPrimaria">
  <div class="container">
  
- <h1 class="jumbotron-heading textoBranco">Diogos Artes /h1>
+ <h1 class="jumbotron-heading textoBranco">Diogos Artes
  
- <p> <i> Está localizado em Paulo Frontin, em frente ao bar do mauro </i> </p>
+ <p> <i> Está localizado em Paulo Frontin, em frente ao bar do Mauro </i> </p>
 <p><b>Missão</b>: <u>Nossa missão</u> é entregar <i> obras de qualidade e originais </i> a nossos clientes.<p>
 <p><b>Oferecemos</b>: <u>Nós oferecemos</u> a <strong>melhor qualidade</strong> em:<i> Obras originais</i>. <p>
 
@@ -124,11 +124,11 @@
  alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;"
  src="https://upload.wikimedia.org/wikipedia/commons/5/55/Mona_Lisa_headcrop.jpg" data-holder-rendered="true">
  <div class="card-body">
- <p class="card-text">Apiario de abelha apis</p>
+ <p class="card-text">Monalisa</p>
  <ul>
- <li>Boa produção de mel</li>
- <li>Otima produção de propolis</li>
- <li>Enchames matrizes </li>
+ <li>Original</li>
+ <li>Direto do Museu do Louvre</li>
+ <li>Preservada </li>
  </ul>
  <div class="d-flex justify-content-between align-items-center">
  <div class="btn-group">
@@ -145,11 +145,11 @@
  alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;"
  src="https://www.infoescola.com/wp-content/uploads/2013/09/noite-estrelada.jpg" data-holder-rendered="true">
  <div class="card-body">
- <p class="card-text">Mel de qualidade</p>
+ <p class="card-text">Noite Estrelada</p>
  <ul>
  <li>Original</li>
- <li>Qualidade boa</li>
- <li>Valor bom</li>
+ <li>Direto de New York </li>
+ <li>Valor inestimável</li>
  </ul>
  <div class="d-flex justify-content-between align-items-center">
  <div class="btn-group">
@@ -165,7 +165,7 @@
  alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;"
  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg/1200px-Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg" data-holder-rendered="true">
  <div class="card-body">
- <p class="card-text">Cera de abelha</p>
+ <p class="card-text">O grito</p>
  <ul>
  <li>Obra original</li>
  <li>Ótima qualidade</li>
